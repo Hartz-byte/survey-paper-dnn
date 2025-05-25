@@ -3,7 +3,7 @@ by Harsh Gupta
 
 Welcome to my survey paper on Deep Neural Networks! This paper is designed to provide beginners with a solid foundation and an overview of key architectures in deep learning.
 
-Read the paper here: https://hartz-byte.github.io/survey-paper-dnn/
+Read the paper here: <a href="https://hartz-byte.github.io/survey-paper-dnn/" target="_blank" rel="noopener noreferrer">https://hartz-byte.github.io/survey-paper-dnn/</a>
 
 ---
 
